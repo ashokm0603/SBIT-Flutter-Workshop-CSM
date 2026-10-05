@@ -1,0 +1,55 @@
+Dart : 
+------
+    ->Dart is statically typed , Object oriented Programming Language used to build flutter Application , and also build Web Application , ISO Application as well
+
+    ->Dart execution starts from Main Method
+
+
+Tokens : 
+--------
+    ->Smallest Units in the Code is called as Tokens 
+        1. Identifier 
+        2. keywords 
+        3. Literals 
+        4. Operators 
+        5. Separators , . ; : () ,[] {} ,<> ,"" ,'', ``
+        6. Comments
+
+
+
+Variables : 
+----------  
+    ->Variables are the named memory location used to Store data/values and it can change N no. during execution
+
+    Syntax: 
+        dataType VariableName ; // Variable Declaration 
+
+        VariableName=value;   //Variable initialization
+
+
+dataType : 
+---------
+    ->dataType represent the what type of data we are storing on that variable 
+
+    1. int 
+    2. double 
+    3. bool 
+    4. String 
+    5. var 
+    6. const  
+    7. List 
+    8. Map 
+    9. Set 
+    10. dynamic 
+
+
+class : 
+-------
+    ->Class is the template or blue Print used to Create on Object 
+    ->Class Contains 
+        1. Data Members (Variables)
+        2. Functional Members (methods )
+        3. Constructor
+
+
+        
