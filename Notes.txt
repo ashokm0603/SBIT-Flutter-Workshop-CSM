@@ -53,3 +53,63 @@ class :
 
 
         
+
+
+
+
+
+
+Steps to Create Flutter App : 
+----------------------------
+    step 1: open c:drive in CMD  and Enter Command 
+                    "flutter doctor" to check flutter configuration 
+    
+    step 2: Create new flutter app by entering command 
+                    "flutter create App-Name"
+
+    step 3: Navigate to project folder by entering 
+                    "cd folderName"  and enter  
+
+    step 4: enter code .
+
+
+
+Flutter : 
+---------
+    ->Flutter is UI development used to design Android Applications , linux , IOS and Web Applications
+    ->Flutter is also called as framework 
+
+
+Using Flutter We design Apps in 2 ways 
+    1.MaterialApp designing  
+    2.CupertinoApp designing 
+
+Widgets : 
+----------
+    ->Widgets are the smallest UI blocks in App 
+    ->Widget is the predefine inbuilt class present Flutter library
+
+     Types: 
+        1. StateLess Widgets 
+        2. StateFull Widgets
+
+1. StateLess Widgets  : 
+    ->StateLess Widget is predefine abstract class contains build() method 
+    ->Using StateLess we can create Static apps (Screens)
+    ->here States are not present 
+
+
+2. StateFull Widgets
+    ->Stateful Widget is predefine abstract class contains build() method 
+    ->Using Stateful we can create dynamic apps (Screens)
+    ->here States are  present 
+
+states: 
+------
+    ->States are used to hold data 
+    ->states are mutable in nature
+
+
+
+Layout Widgets: 
+-----------------
